@@ -1,69 +1,86 @@
-# Make It Real - NFT preview card component
+# Make It Real - nft-preview-card
 
-<img src="./design/desktop-preview.jpg" width="700">
+This is a solution to the nft preview card project of the Make It Real course.
 
-## Reto
+## Table of contents
 
-Su desafío es construir este componente de tarjeta de vista previa y lograr que se parezca lo más posible al diseño.
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-Puedes usar cualquier herramienta que te guste para ayudarte a completar el desafío. Entonces, si tienes algo que te gustaría practicar, no dudes en intentarlo.
+## Overview
 
-Tus usuarios deberían poder:
+### The challenge
 
-- Ver el diseño óptimo según el tamaño de pantalla de su dispositivo
-- Ver hover y focus para elementos interactivos
+Users should be able to:
 
-## Diseño
+- Task 1
+- Task 2
 
-Los diseños están en formato JPG estático. El uso de archivos JPG significará que deberá usar su mejor criterio para estilos como "tamaño de fuente", "padding" y "margen".
+### Screenshot
 
-### Style Guide
+![](./screenshot.jpg)
 
-Los diseños se crearon con los siguientes anchos:
+Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
-- Mobile: 375px
-- Desktop: 1440px
+Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
 
-## Colores
+Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
-### Primary
+## My process
 
-- Soft blue: hsl(215, 51%, 70%)
-- Cyan: hsl(178, 100%, 50%)
+### Built with
 
-### Neutral
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
 
-- Very dark blue (main BG): hsl(217, 54%, 11%)
-- Very dark blue (card BG): hsl(216, 50%, 16%)
-- Very dark blue (line): hsl(215, 32%, 27%)
-- White: hsl(0, 0%, 100%)
+### What I learned
 
-## Tipografía
+Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
-### Body Copy
+To see how you can add code snippets, see below:
 
-- Font size (paragraph): 18px
+```html
+<h1>Some HTML code I'm proud of</h1>
+```
 
-### Font
+```css
+.proud-of-this-css {
+  color: papayawhip;
+}
+```
 
-- Family: [Outfit](https://fonts.google.com/specimen/Outfit)
-- Weights: 300, 400, 600
+```js
+const proudOfThisFunc = () => {
+  console.log("🎉");
+};
+```
 
-## Construyendo tu proyecto
+If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-Siéntase libre de usar cualquier flujo de trabajo con el que se sienta cómodo. A continuación se sugiere un proceso, pero no sienta que necesita seguir estos pasos:
+### Continued development
 
-1. Inicializa tu proyecto como repositorio público en [GitHub](https://github.com/). La creación de un repositorio hará que sea más fácil compartir su código con la comunidad si necesita ayuda. Si no está seguro de cómo hacer esto, [lea este recurso](https://guias.makeitreal.camp/git) .
-2. Mire los diseños para comenzar a planificar cómo abordará el proyecto. Este paso es crucial para ayudarlo a pensar con anticipación en las clases de CSS para crear estilos reutilizables.
-3. Antes de agregar estilos, estructura tu contenido con HTML. Escribir tu HTML primero puede ayudar a centrar tu atención en crear contenido bien estructurado.
-4. Escriba los estilos base para su proyecto, incluidos los estilos de contenido general, como `font-family` y `font-size`.
-5. Comience a agregar estilos en la parte superior de la página y siga hacia abajo. Pase a la siguiente sección solo cuando esté satisfecho de haber completado el área en la que está trabajando.
+Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
-## Crea un `README.md` personalizado
+### Useful resources
 
-Recomendamos encarecidamente sobrescribir este `README.md` con uno personalizado. Proporcionamos una plantilla dentro del archivo [`README-template.md`](./README-template.md) en este código de inicio.
+- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
-La plantilla proporciona una guía sobre qué agregar. Un `README` personalizado lo ayudará a explicar su proyecto y reflexionar sobre sus aprendizajes. Por favor, siéntete libre de editar nuestra plantilla tanto como quieras.
+## Author
 
-**¡Diviértete construyendo!** 🚀
+- Website - [Bryam Aranguri](https://github.com/bryamaranguri)
+- Twitter - [@bryamaranguri](https://x.com/bryamaranguri)
 
+## Acknowledgments
+
+This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
